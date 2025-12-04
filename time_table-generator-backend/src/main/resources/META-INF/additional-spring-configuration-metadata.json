@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "college.totalRooms",
+  "type": "java.lang.String",
+  "description": "A description for 'college.totalRooms'"
+}]}
